@@ -152,7 +152,10 @@ img{
     width: 450px;
     height: 450px;
 }
-
+img{
+    width: 450px;
+    height: 950px;
+}
 h3{
     margin-top: 30px;
 }
